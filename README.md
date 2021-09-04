@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/sW5ckV1.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="lisa.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="ajnas-dz" src="https://img.shields.io/badge/chinjumwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
