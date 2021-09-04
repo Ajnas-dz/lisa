@@ -5,7 +5,7 @@
 <a href="#"><img title="ajnas-dz" src="https://img.shields.io/badge/CHINJUMWOL-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/salman-dx"><img title="Author" src="https://img.shields.io/badge/Author-salman-dx/lisa?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/salman-dx"><img title="Author" src="https://img.shields.io/badge/Author-ajnas-dz/Chinjumwol?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -59,7 +59,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ajnas-dz/lisa.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajnas-dz/lisa.git)
      </div>
 <br>
 <br >
