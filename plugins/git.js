@@ -11,19 +11,19 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     
     
    
-  r_text[0] = "https://h.top4top.io/p_2049zyydb0.jpg";
+  r_text[0] = "https://i.imgur.com/sW5ckV1.jpeg";
     
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*creater salman dx*
-*owner number wa.me/972 52-545-8878*
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*creater Ajnas-dz*
+*owner number wa.me/917736936605*
 *bot setting video : https://youtu.be/_D4ZYuUSXjs
-*githublink       https://github.com/salman-dx/lisa*
-*audio commads    https://github.com/salman-dx/lisa/tree/master/uploads*
-*sticker commads  https://github.com/salman-dx/lisa/tree/master/uploads*
+*githublink       https://github.com/Ajnas-dz/lisa*
+*audio commads    https://github.com/Ajnas-dz/lisa/tree/master/uploads*
+*sticker commads  https://github.com/Ajnas-dz/lisa/tree/master/uploads*
 `}) 
 
 }));
