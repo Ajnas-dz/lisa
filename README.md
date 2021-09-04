@@ -19,7 +19,7 @@ Project created by <a href="https://github.com/ajnas-dz">ajnas-dz</a> to make it
 ----
 
   <p align="center">
-  <a href="httsp://github.com/salman-dx/lisa">
+  <a href="httsp://github.com/ajnas-dz/lisa">
     <img src="https://img.shields.io/github/repo-size/ameer-kallumthodi/pikachu?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/salman-dx/followers"><img title="Followers" src="https://img.shields.io/github/followers/salman-dx?color=f7df1e&style=flat-square"></a>
