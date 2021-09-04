@@ -2,14 +2,14 @@
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/sW5ckV1.jpeg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="ajnas-dz" src="https://img.shields.io/badge/salman-dx-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ajnas-dz" src="https://img.shields.io/badge/ajnas-dz-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/ajnas-dz"><img title="Author" src="https://img.shields.io/badge/Author-salman-dx/lisa?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/salman-dx">Ajnas-dz</a> to make it public
+Project created by <a href="https://github.com/salman-dx">ajnas-dz</a> to make it public
     <br>
        | © |
         Reserved |
