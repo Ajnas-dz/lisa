@@ -22,9 +22,9 @@ Project created by <a href="https://github.com/ajnas-dz">ajnas-dz</a> to make it
   <a href="httsp://github.com/ajnas-dz/lisa">
     <img src="https://img.shields.io/github/repo-size/ameer-kallumthodi/pikachu?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/salman-dx/followers"><img title="Followers" src="https://img.shields.io/github/followers/salman-dx?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/salman-dx/lisa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/salman-dx/lisa?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/salman-dx/lisa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/salman-dx/lisa?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/ajnas-dz/followers"><img title="Followers" src="https://img.shields.io/github/followers/salman-dx?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/ajnas-dz/lisa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/salman-dx/lisa?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/ajnas-dz/lisa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ajnas-dz/lisa?color=f7df1e&style=flat-square"></a>
 <a href="https://github.com/salman-dx/lisa/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/salman-dx/lisa?label=Watchers&color=f7df1e&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
 </p>
