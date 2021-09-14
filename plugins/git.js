@@ -11,7 +11,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     
     
    
-  r_text[0] = "https://i.imgur.com/sW5ckV1.jpeg";
+  r_text[0] = "`})https://i.imgur.com/07KGGa8.jpeg";
     
     
     var i = Math.floor(1*Math.random())
@@ -19,11 +19,12 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*creater Ajnas-dz*
-*owner number wa.me/917736936605*
-*bot setting video : https://youtu.be/_D4ZYuUSXjs
-*githublink       https://github.com/Ajnas-dz/lisa*
-*audio commads    https://github.com/Ajnas-dz/lisa/tree/master/uploads*
-*sticker commads  https://github.com/Ajnas-dz/lisa/tree/master/uploads*
-`}) 
 
+Coded by ChinjuMwol
+
+*githublink       https://github.com/Ajnas-dz/ChinjuMwol*
+`})
 }));
+ 
+
+
