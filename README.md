@@ -7,10 +7,10 @@
 </p>
   
   <p align="center">
-<a href="#"><img title="𝙲𝙷𝙸𝙽𝙹𝚄 𝙼𝚆𝙾𝙻" src="https://img.shields.io/badge/𝙲𝙷𝙸𝙽𝙹𝚄 𝙼𝚆𝙾𝙻-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ℂ𝕙𝕚𝕟𝕛𝕦 𝕄𝕨𝕠𝕝" src="https://img.shields.io/badge/𝙲𝙷𝙸𝙽𝙹𝚄 𝙼𝚆𝙾𝙻-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/AJNAS-DZ"><img title="Author" src="https://img.shields.io/badge/Author-wagid-kallumthodi/bosco?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/AJNAS-DZ"><img title="Author" src="https://img.shields.io/badge/Author-𝘼𝙅𝙉𝘼𝙎-𝘿𝙕/CHINJUMWOL?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
