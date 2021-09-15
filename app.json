@@ -8,8 +8,8 @@
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
-        "ASENA_SESSION": {
-            "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Asena Session.",
+        "CHINJU_SESSION": {
+            "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Chinju Session.",
             "required": true
         },
         "SUDO": {
