@@ -1,20 +1,20 @@
 <div align="center">
   
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+new+roman&color=F7001E&size=25&lines=B05C0+Whatsapp+Bot;With+Tons+of+features;Complete+Malayalam+content;Best+Bgm+Bot;Edited+from+WhatsAsena;Made+By+WAHID)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+new+roman&color=F7001E&size=25&lines=CHINJUMWOL+Whatsapp+Bot;With+Tons+of+features;Complete+Malayalam+content;Best+Bgm+Bot;Edited+from+WhatsAsena;Made+By+AJNAS-DZ)](https://git.io/typing-svg)
 
 
-  <a href="https://youtu.be/iRLphwWvxrs" target="blank"><img align="center" src="NL.png" height="400" width="450" /></a>
+  <a href="https://i.imgur.com/07KGGa8.jpeg" target="blank"><img align="center" src="NL.png" height="400" width="450" /></a>
 </p>
   
   <p align="center">
-<a href="#"><img title="B05C0" src="https://img.shields.io/badge/B05C0-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="𝙲𝙷𝙸𝙽𝙹𝚄 𝙼𝚆𝙾𝙻" src="https://img.shields.io/badge/𝙲𝙷𝙸𝙽𝙹𝚄 𝙼𝚆𝙾𝙻-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/WAHID-BOT"><img title="Author" src="https://img.shields.io/badge/Author-wagid-kallumthodi/bosco?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/AJNAS-DZ"><img title="Author" src="https://img.shields.io/badge/Author-wagid-kallumthodi/bosco?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/WAHID-BOT">𝑾 𝑨 𝑯 𝑰 𝑫</a> to make it public
+Project created by <a href="https://github.com/Ajnas-dz">𝘼𝙅𝙉𝘼𝙎-𝘿𝙕</a> to make it public
     <br>
        | © |
         Reserved |
@@ -24,12 +24,12 @@ Project created by <a href="https://github.com/WAHID-BOT">𝑾 𝑨 𝑯 𝑰 �
 ----
 
   <p align="center">
-  <a href="httsp://github.com/WAHID-BOT/B05C0">
-    <img src="https://img.shields.io/github/repo-size/WAHID-BOT/B05C0?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/AJNAS-DZ/CHINJUMWOL">
+    <img src="https://img.shields.io/github/repo-size/AJNAS-DZ/CHINJUMWOL?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/WAHID-BOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/WAHID-BOT?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/WAHID-BOT/B05C0/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/WAHID-BOT/B05C0?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/WAHID-BOT/B05C0/network/members"><img title="Forks" src="https://img.shields.io/github/forks/WAHID-BOT/B05C0?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/AJNAS-DZ/followers"><img title="Followers" src="https://img.shields.io/github/followers/WAHID-BOT?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/AJNAS-DZ/CHINJUMWOL/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AJNAS-DZ/CHINJUMWOL?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/AJNAS-DZ/CHINJUMWOL/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AJNAS-DZ/CHINJUMWOL?color=f7df1e&style=flat-square"></a>
 
 
 <h3 align="center">Contact Me:</h3>
@@ -38,7 +38,7 @@ Project created by <a href="https://github.com/WAHID-BOT">𝑾 𝑨 𝑯 𝑰 �
 </p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
-<a href="https://youtu.be/L8E4enqfYik" target="blank"><img align="center" src="https://i.ytimg.com/vi/iRLphwWvxrs/maxresdefault.jpg" height="180" width="300" /></a>
+<a href="https://youtu.be/L8E4enqfYik" target="blank"><img align="center" src="https://i.imgur.com/07KGGa8.jpeg" height="180" width="300" /></a>
 </p>
   
 <div align="center">
