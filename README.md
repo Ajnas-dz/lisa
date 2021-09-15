@@ -85,7 +85,7 @@ Project created by <a href="https://github.com/Ajnas-dz">𝘼𝙅𝙉𝘼𝙎-�
 ## Developers
   <div align="center">
     
-  [![AJNAS](https://github.com/AJNAS-DZ.png?size=100)](https://github.com/AJNAS-DZ) 
+[![WAHID](https://github.com/WAHID-BOT.png?size=100)](https://github.com/WAHID-BOT)
 ----|
    [ajnas Malappuram](https://github.com/AJNAS-DZ) 
 Base, Bug Fixes, Modules
