@@ -63,7 +63,7 @@ Project created by <a href="https://github.com/Ajnas-dz">𝘼𝙅𝙉𝘼𝙎-�
   
   Step 3: Turn on worker
   
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@souravkl11/Raganork-QR)
+[![Run on Repl.it](https://i.imgur.com/07KGGa8.jpeg)](https://replit.com/@ajnas-dz/CHINJUMWOL)
 
 [![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/AJNAS-DZ/CHINJUMWOL.git)
      <div align="left">
