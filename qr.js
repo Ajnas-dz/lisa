@@ -19,7 +19,7 @@ async function CHINJUMWOL () {
     conn.regenerateQRIntervalMs = 50000;
     
     conn.on('connecting', async () => {
-        console.log(`${chalk.green.bold('Chinju')}${chalk.blue.bold('Mwol')}
+        console.log(`${chalk.green.bold('CHINJU')}${chalk.blue.bold('MWOL')}
 ${chalk.white.italic('AsenaString Kodu Alıcı')}
 
 ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please Wait.')}`);
@@ -33,7 +33,7 @@ ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please Wait.')}`);
         );
         
         if (!fs.existsSync('config.env')) {
-            fs.writeFileSync('config.env', `ASENA_SESSION="${st}"`);
+            fs.writeFileSync('config.env', `CHINJU_SESSION="${st}"`);
         }
         if (conn.user.jid.startsWith('90')) {
             await conn.sendMessage(conn.user.jid,st, MessageType.text)
@@ -44,7 +44,7 @@ ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please Wait.')}`);
         }
         else {
             await conn.sendMessage(conn.user.jid,st, MessageType.text)
-            await conn.sendMessage(conn.user.jid,'*Do Not Share This Code With Anyone!*', MessageType.text)
+            await conn.sendMessage(conn.user.jid,'*💥Do Not Share This Code With Anyone!💥*', MessageType.text)
             console.log(
                 chalk.blue.bold('If you are installing locale, you can start the bot with node bot.js')
             );
