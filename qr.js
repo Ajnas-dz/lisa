@@ -11,7 +11,7 @@ const {WAConnection, MessageOptions, MessageType} = require('@adiwajshing/bailey
 const {StringSession} = require('./whatsasena/');
 const fs = require('fs');
 
-async function whatsAsena () {
+async function CHINJUMWOL () {
     const conn = new WAConnection();
     const Session = new StringSession();  
     conn.version = [2,2121,7];
@@ -19,7 +19,7 @@ async function whatsAsena () {
     conn.regenerateQRIntervalMs = 50000;
     
     conn.on('connecting', async () => {
-        console.log(`${chalk.green.bold('Whats')}${chalk.blue.bold('CHINJU')}
+        console.log(`${chalk.green.bold('Chinju')}${chalk.blue.bold('Mwol')}
 ${chalk.white.italic('AsenaString Kodu Alıcı')}
 
 ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please Wait.')}`);
