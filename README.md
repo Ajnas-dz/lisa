@@ -1,6 +1,6 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bomber+Escort&color=F7001E&size=25&lines=CHINJUMWOL+Whatsapp+Bot;With+Tons+of+features;Complete+Malayalam+content;Best+Bgm+Bot;Edited+from+WhatsAsena;Made+By+Ajnas-dz)](https://git.io/typing-svg)
+
   
   
 <img border-radius: 15px src="https://i.imgur.com/07KGGa8.jpeg" width="300" height="400"/>
