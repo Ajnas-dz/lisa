@@ -20,7 +20,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*creater Ajnas-dz*
 
-Coded by ChinjuMwol
+Coded by ChinjuMwol🧚‍♂️
 
 *githublink       https://github.com/Ajnas-dz/ChinjuMwol*
 `})
