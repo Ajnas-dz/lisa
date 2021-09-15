@@ -19,7 +19,7 @@ Project created by <a href="https://github.com/Ajnas-dz">𝘼𝙅𝙉𝘼𝙎-�
        | © |
         Reserved |
     <br> 
-</p>
+</p
 
 ----
 
@@ -87,8 +87,12 @@ Project created by <a href="https://github.com/Ajnas-dz">𝘼𝙅𝙉𝘼𝙎-�
     
 [![WAHID](https://github.com/WAHID-BOT.png?size=100)](https://github.com/WAHID-BOT)
 ----|
-   [ajnas Malappuram](https://github.com/AJNAS-DZ) 
+[wahid Malappuram](https://github.com/WAHID-BOT) 
+
 Base, Bug Fixes, Modules
+
+  </div>
+
   </div>
    
   
