@@ -3,11 +3,12 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bomber+Escort&color=F7001E&size=25&lines=CHINJUMWOL+Whatsapp+Bot;With+Tons+of+features;Complete+Malayalam+content;Best+Bgm+Bot;Edited+from+WhatsAsena;Made+By+Ajnas-dz)](https://git.io/typing-svg)
   
   
- 
+
   
   <img border-radius: 15px src="https://i.imgur.com/07KGGa8.jpeg" width="300" height="400"/>
   <p align="center">
-<a href="#"><img title="ajnas-dz" src="https://img.shields.io/badge/CHINJUMWOL-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+
+    <a href="#"><img title="ajnas-dz" src="https://img.shields.io/badge/CHINJUMWOL-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/salman-dx"><img title="Author" src="https://img.shields.io/badge/Author-ajnas-dz/Chinjumwol?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
