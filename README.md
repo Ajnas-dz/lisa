@@ -38,7 +38,7 @@ Project created by <a href="https://github.com/Ajnas-dz">𝘼𝙅𝙉𝘼𝙎-�
 </p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
-<a href="https://youtu.be/L8E4enqfYik" target="blank"><img align="center" src="https://i.imgur.com/07KGGa8.jpeg" height="180" width="200" /></a>
+<a href="https://youtu.be/L8E4enqfYik" target="blank"><img align="center" src="https://i.imgur.com/07KGGa8.jpeg" height="300" width="200" /></a>
 </p>
   
 <div align="center">
@@ -85,9 +85,9 @@ Project created by <a href="https://github.com/Ajnas-dz">𝘼𝙅𝙉𝘼𝙎-�
 ## Developers
   <div align="center">
     
-  [![WAHID](https://github.com/WAHID-BOT.png?size=100)](https://github.com/WAHID-BOT) 
+  [![AJNAS](https://github.com/AJNAS-DZ.png?size=100)](https://github.com/AJNAS-DZ) 
 ----|
-   [ajnas Malappuram](https://github.com/WAHID-BOT) 
+   [ajnas Malappuram](https://github.com/AJNAS-DZ) 
 Base, Bug Fixes, Modules
   </div>
    
